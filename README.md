@@ -1,4 +1,4 @@
-# Capstone Three Project
+# Capstone Two Project
 
 # ⏳  Predicting the likelihood of customer churn
 
